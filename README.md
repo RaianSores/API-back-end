@@ -8,12 +8,12 @@ Jest
 MySQL
 NodeJS
 
-Tarefas
+## Tarefas
 Registry users
 Person registration
 Product registration
 
-Ícones
+## Ícones
 📦 Nova funcionalidade;
 🆙 Atualização;
 🪲 Correção de bug;

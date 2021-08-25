@@ -1,0 +1,14 @@
+{
+   "type": "mysql",
+   "host": "localhost",
+   "port": 3390,
+   "username": "quantum",
+   "password": "quantum28042004",
+   "database": "db_testes",
+   "migrations": ["src/database/migrations/*.ts"],
+   "entities": ["src/entities/*.ts"],
+   "cli": {
+     "migrationsDir": "src/database/migrations",
+     "entitiesDir": "src/entities"
+   }
+ }

@@ -9,9 +9,9 @@ MySQL
 NodeJS
 
 Tarefas
-** Registry users;
-** Person registration;
-** Product registration;
+Registry users
+Person registration
+Product registration
 
 Ícones
 📦 Nova funcionalidade;

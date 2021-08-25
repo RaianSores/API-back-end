@@ -1,6 +1,7 @@
 ## Estudos back-end
 
-##🧪 Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
+🧪 Tecnologias Esse projeto foi desenvolvido com as seguintes tecnologias:
+
 Javascript
 Typescript
 Express
